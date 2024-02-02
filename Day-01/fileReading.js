@@ -5,7 +5,7 @@ async function readFileContent(filepath){
         console.log('File Content: ');
         console.log(data);
     }catch(err){
-        console.log(`Error reading file: , ${err}`);
+        console.log(`Error reading file  : , ${err}`);
     }
 }
 
